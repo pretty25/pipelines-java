@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/premkelvin/SP-Demos/_apis/build/status/pretty25.pipelines-java?branchName=master)](https://dev.azure.com/premkelvin/SP-Demos/_build/latest?definitionId=12&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
